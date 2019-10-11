@@ -11,7 +11,7 @@ Basics, requested from subject:
 * E) displaying decimal floating point (%f).
 * F) displaying pointer address (%p).
 
-## Installation && Test
+## Installation & Test
 
 * A) Create main.c
 ```c
@@ -35,6 +35,6 @@ ft_printf("value: %-10.5d\n", x);
 >$ ./a.out
 ```
 
-## Contact && Contribute
+## Contact & Contribute
 
 To contact or helping me to (fix bugs || improve) ft_printf, feel free to e-mail me at vsmolii@student.42.us.org
