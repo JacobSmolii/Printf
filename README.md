@@ -20,7 +20,7 @@ int x;
 x = 42;
 ft_printf("value: %-10.5d\n", x);
 
-// value: "00042_____" (_) - space
+// value: "00042_____"; (_) - space
 ```
 * B) When compiling, make sure to link the `libftprintf.a` library.
 
