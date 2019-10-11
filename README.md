@@ -6,7 +6,7 @@ Basics, requested from subject:
 
 * A) parsing for flags (#, 0, -, + and space), field_width, precision, lengtn_modifier (hh, h, l and ll) and for conversion specifier.
 * B) displaying UTF-8 characters. (%c and %s).
-* C) computing unsigned numbers in base 8(%o), 10 (%u) and 16 (%x).
+* C) computing unsigned numbers in base 8 (%o), 10 (%u) and 16 (%x).
 * D) displaying signed numbers (%d) and (%i).
 * E) displaying decimal floating point (%f).
 * F) displaying pointer address (%p).
